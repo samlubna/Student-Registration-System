@@ -1,0 +1,8 @@
+CSC8404, Advanced Programming in Java, 20
+CSC8406, Object-Oriented Programming, 20
+CSC8103, Distributed Algorithms, 20
+CSC8201, The Challenge of Dependable Systems, 20
+CSC8105, System Validation, 20
+CSC8112, Internet of Things, 20
+CSC8208, Research Methods and Group Project, 40
+CSC8101, Big Data Analytics, 20
